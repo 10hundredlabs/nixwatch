@@ -1,4 +1,6 @@
-NixWatch Privacy Policy
+# NixWatch Privacy Policy
+
+Effective date: May 19, 2026
 
 NixWatch does not collect, store, transmit, sell, or share personal data.
 
@@ -6,6 +8,8 @@ NixWatch is a Wear OS watch face. It may display information provided locally by
 
 NixWatch does not require an account, does not use analytics, does not include advertising, and does not contain in-app purchases.
 
-If you have questions, contact: 10hundredlabs@gmail.com
+## Contact
 
-Effective date: May 19, 2026
+For privacy questions, contact:
+
+10hundredlabs@gmail.com
